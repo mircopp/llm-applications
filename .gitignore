@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__
+.venv
+*.db
+.vscode
+.DS_Store
+.mypy_cache/
+dist/
+*.egg-info/
